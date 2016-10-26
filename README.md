@@ -4,6 +4,8 @@ Unofficial Stanford CoreNLP client written in Clojure
 
 ## Usage
 
+CoreNLP server is needed to be started first.
+
 ````Clojure
 (require '[clj-corenlp-client.core :as corenlp])
 
