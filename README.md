@@ -15,3 +15,7 @@ Unofficial Stanford CoreNLP client written in Clojure
 
 (corenlp/dep-parse "I saw her.")
 ````
+
+## Install
+
+[![Clojars Project](https://img.shields.io/clojars/v/clj-corenlp-client.svg)](https://clojars.org/clj-corenlp-client)
